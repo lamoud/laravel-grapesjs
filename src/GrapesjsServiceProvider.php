@@ -1,4 +1,5 @@
 <?php
+namespace Lamoud\LaravelGrapesjs;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Facades\Blade;

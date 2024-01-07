@@ -15,7 +15,7 @@ cd path/to/your/laravel-project
 You can install this library using Composer. Run the following command:
 
 ```bash
-composer create-project lamoud/laravel-grapesjs
+composer require lamoud/laravel-grapesjs
 ```
 
 ## Step 3: Register the ServiceProvider
