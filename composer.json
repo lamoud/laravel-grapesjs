@@ -1,0 +1,17 @@
+{
+    "name": "lamoud/laravel-grapesjs",
+    "description": "This package provides an easy way to integrate GrapesJS into your Laravel project making it easy to build professional pages with drag and drop.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Lamoud\\LaravelGrapesjs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mahmoud Hassan",
+            "email": "betalamoud@gmail.com"
+        }
+    ],
+    "require": {}
+}
